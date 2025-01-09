@@ -1,8 +1,4 @@
-Here’s an example of a well-structured **README.md** file for your **Vehicle Detection and Counting** project:
-
----
-
-```markdown
+markdown
 # Vehicle Detection and Counting
 
 ## Description
@@ -61,27 +57,4 @@ We welcome contributions! If you'd like to improve this project, please follow t
    ```
 4. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-For questions or suggestions, feel free to contact:
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
-
----
-
-### Screenshots
-Include a sample screenshot or GIF of the project in action here:
-
-![Vehicle Detection Screenshot](screenshot.png)
-```
-
----
-
-### Notes:
-- Replace placeholders like `Your Name`, `YourUsername`, and `your.email@example.com` with your actual details.
-- Add any additional sections (e.g., challenges, future improvements) if necessary.
-
-Let me know if you need help customizing this further! 😊
