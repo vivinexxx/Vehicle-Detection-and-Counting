@@ -15,7 +15,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/vehicle-detection-and-counting.git
+   git clone https://github.com/vivinexxx/Vehicle-Detection-and-Counting.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
